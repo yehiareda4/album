@@ -2,10 +2,11 @@ ext {
     plugins = [
             library    : 'com.android.library',
             application: 'com.android.application',
+            maven_publish: 'maven-publish'
     ]
 
     android = [
-            applicationId    : "com.yanzhenjie.album.sample",
+            applicationId    : "com.album.sample",
             compileSdkVersion: 31,
             buildToolsVersion: "30.0.3",
 
