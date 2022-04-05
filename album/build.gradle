@@ -37,7 +37,7 @@ publishing {
         mavenJava(MavenPublication) {
             groupId = 'com.github.yehiareda4'
             artifactId = 'album'
-            version = '1.0.12'
+            version = '1.0.16'
         }
     }
 }
