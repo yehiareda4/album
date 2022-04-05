@@ -24,8 +24,8 @@ import android.view.View;
 
 import com.yanzhenjie.album.sample.app.AlbumActivity;
 import com.yanzhenjie.album.sample.app.AlbumFilterActivity;
-import com.yanzhenjie.album.sample.app.DefineStyleActivity;
 import com.yanzhenjie.album.sample.app.CameraActivity;
+import com.yanzhenjie.album.sample.app.DefineStyleActivity;
 import com.yanzhenjie.album.sample.app.GalleryActivity;
 import com.yanzhenjie.album.sample.app.ImageActivity;
 import com.yanzhenjie.album.sample.app.VideoActivity;
