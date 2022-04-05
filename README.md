@@ -19,8 +19,8 @@ Effect on landscape screen:
 <image src="./image/7.gif"/>
 
 ## Download
-```groovy
-implementation 'com.yanzhenjie:album:2.1.3'
+```
+implementation 'com.github.yehiareda4:album:$LAST_V'
 ```
 
 ## Usage
@@ -318,9 +318,6 @@ Album.initialize(AlbumConfig.newBuilder(this)
     .build());
 ```
 
-## Contributing
-Before submitting pull requests, contributors must abide by the [agreement](CONTRIBUTING.md) .
-
 ## Proguard-rules
 If you are using ProGuard you might need to add the following options:
 ```txt
@@ -330,7 +327,7 @@ If you are using ProGuard you might need to add the following options:
 
 ## License
 ```text
-Copyright 2017 Yan Zhenjie
+Copyright 2022 Yehia Reda
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
