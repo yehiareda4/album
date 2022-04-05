@@ -24,7 +24,8 @@ android {
 }
 
 dependencies {
-    implementation rootProject.ext.dependencies.album
+//    implementation rootProject.ext.dependencies.album
+    implementation project(path: ':album')
 
     implementation rootProject.ext.dependencies.appCompat
     implementation rootProject.ext.dependencies.design
