@@ -1,6 +1,8 @@
 # Album
 <image src="./image/logo.png"/>  
 
+[![](https://jitpack.io/v/yehiareda4/album.svg)](https://jitpack.io/#yehiareda4/album)
+
 Album is a Material Design style album, it provides three functions: album, camera and gallery.
 
 1. Select images, selecte videos, or select pictures and videos.
